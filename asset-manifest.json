@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Web-ShopApple/static/css/main.e8a160fc.chunk.css",
+    "main.js": "/Web-ShopApple/static/js/main.50f8e853.chunk.js",
+    "main.js.map": "/Web-ShopApple/static/js/main.50f8e853.chunk.js.map",
+    "runtime-main.js": "/Web-ShopApple/static/js/runtime-main.0afa8120.js",
+    "runtime-main.js.map": "/Web-ShopApple/static/js/runtime-main.0afa8120.js.map",
+    "static/css/2.818011ed.chunk.css": "/Web-ShopApple/static/css/2.818011ed.chunk.css",
+    "static/js/2.70043179.chunk.js": "/Web-ShopApple/static/js/2.70043179.chunk.js",
+    "static/js/2.70043179.chunk.js.map": "/Web-ShopApple/static/js/2.70043179.chunk.js.map",
+    "static/js/3.3d2a19d5.chunk.js": "/Web-ShopApple/static/js/3.3d2a19d5.chunk.js",
+    "static/js/3.3d2a19d5.chunk.js.map": "/Web-ShopApple/static/js/3.3d2a19d5.chunk.js.map",
+    "index.html": "/Web-ShopApple/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/Web-ShopApple/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.e8a160fc.chunk.css.map": "/Web-ShopApple/static/css/main.e8a160fc.chunk.css.map",
+    "static/js/2.70043179.chunk.js.LICENSE.txt": "/Web-ShopApple/static/js/2.70043179.chunk.js.LICENSE.txt",
+    "static/media/logo.983722aa.jpg": "/Web-ShopApple/static/media/logo.983722aa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0afa8120.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.70043179.chunk.js",
+    "static/css/main.e8a160fc.chunk.css",
+    "static/js/main.50f8e853.chunk.js"
+  ]
+}
